@@ -1,0 +1,10 @@
+key 11    VOLUME_UP 
+key 10    VOLUME_DOWN 
+key 9     MENU              WAKE 
+key 1     HOME              WAKE_DROPPED 
+key 249   BACK              WAKE_DROPPED 
+key 17    ENDCALL           WAKE_DROPPED 
+key 19    SEARCH            WAKE_DROPPED
+key 2     CAMERA 
+key 3     FOCUS 
+
